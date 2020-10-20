@@ -1,0 +1,8 @@
+repo_name: "default"
+description: "Short description of the repo"
+author: "Guillem Duran Ballester"
+email: "guillem.db@gmail.com"
+license: "MIT"
+url: "https://github.com/FragileTech/fragile"
+bot_name: "Fragile Bot"
+bot_email: "bot@fragile.tech"
